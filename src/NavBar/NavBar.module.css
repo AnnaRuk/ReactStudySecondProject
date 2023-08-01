@@ -1,0 +1,14 @@
+.mainMenu{
+
+   display: inline-block;
+    border: 2px solid red;
+    padding: 10px;
+}
+
+.mainMenuItem{
+
+   
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px;
+}
